@@ -1,0 +1,33 @@
+{
+  "name": "Portfolio | Hima Vamsi",
+  "short_name": "Hima Vamsi",
+  "description": "Hima Vamsi's Portfolio Website.",
+  "icons": [
+    {
+      "src": "",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#7000FF",
+  "background_color": "#000000",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
