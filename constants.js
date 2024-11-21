@@ -197,7 +197,7 @@ export const WORK_CONTENTS = {
     {
       title: "Experience",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget tellus vel neque dictum euismod rutrum a augue. Pellentesque consequat vehicula dictum. Ut dictum lacinia tellus, et elementum urna blandit quis. Integer imperdiet ipsum luctus, finibus dui non, ultrices lectus. Nunc cursus nulla nibh, at tempor ex mollis elementum. Suspendisse lorem metus, fermentum at velit quis, maximus ornare dui.",
+        "As a Frontend Developer, I specialize in creating animated and interactive websites that captivate users and deliver seamless digital experiences. By leveraging powerful tools like GSAP (GreenSock Animation Platform), I design smooth animations, scroll effects, and dynamic transitions that bring ideas to life. My focus is on crafting responsive and visually appealing designs while implementing modern web development practices to ensure functionality across all devices. With a passion for blending creativity and technology, I aim to transform concepts into engaging and immersive online experiences.",
       content: (
         <div className="h-full w-full flex items-center justify-center text-white px-4">
           Frontend Developer
@@ -229,20 +229,20 @@ export const WORK_CONTENTS = {
     {
       title: "JP Morgan Chase & Co",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget tellus vel neque dictum euismod rutrum a augue. Pellentesque consequat vehicula dictum. Ut dictum lacinia tellus, et elementum urna blandit quis. Integer imperdiet ipsum luctus, finibus dui non, ultrices lectus. Nunc cursus nulla nibh, at tempor ex mollis elementum. Suspendisse lorem metus, fermentum at velit quis, maximus ornare dui.",
+        "J.P. Morgan is a leading global financial services firm that provides solutions in investment banking, asset management, wealth management, and financial advisory. With a history spanning over 200 years, the company is known for its innovation, integrity, and client-focused approach.",
       content: (
         <div className="h-full w-full flex items-center justify-center text-white px-4">
-          
+          <img src="/projects/jpmorgan1.png"/>
         </div>
       ),
     },
     {
       title: "Experience",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget tellus vel neque dictum euismod rutrum a augue. Pellentesque consequat vehicula dictum. Ut dictum lacinia tellus, et elementum urna blandit quis. Integer imperdiet ipsum luctus, finibus dui non, ultrices lectus. Nunc cursus nulla nibh, at tempor ex mollis elementum. Suspendisse lorem metus, fermentum at velit quis, maximus ornare dui.",
+        "Designed and implemented a dynamic live graph using JPMorgan Chases's open-source library,resulting in a 20% increase in trader's monitoring efficiency. Achieved optimal web application output by repairing repository files, showcasing high-performance and scalability expertise. Established a local dev environment by downloading essential files, tools, and dependencies.",
       content: (
         <div className="h-full w-full flex items-center justify-center text-white px-4">
-          Frontend Developer
+          Software Engineer
         </div>
       ),
     },
@@ -251,20 +251,20 @@ export const WORK_CONTENTS = {
     {
       title: "Rinex",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget tellus vel neque dictum euismod rutrum a augue. Pellentesque consequat vehicula dictum. Ut dictum lacinia tellus, et elementum urna blandit quis. Integer imperdiet ipsum luctus, finibus dui non, ultrices lectus. Nunc cursus nulla nibh, at tempor ex mollis elementum. Suspendisse lorem metus, fermentum at velit quis, maximus ornare dui.",
+        "Rinex is a dynamic platform dedicated to empowering learners with cutting-edge educational resources and skill-building opportunities. Specializing in innovative learning solutions, Rinex offers courses and training programs tailored to meet the demands of the modern workforce, emphasizing practical, real-world applications.",
       content: (
         <div className="h-full w-full flex items-center justify-center text-white px-4">
-          
+          <img src="/projects/rinex1.png"/>
         </div>
       ),
     },
     {
       title: "Experience",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget tellus vel neque dictum euismod rutrum a augue. Pellentesque consequat vehicula dictum. Ut dictum lacinia tellus, et elementum urna blandit quis. Integer imperdiet ipsum luctus, finibus dui non, ultrices lectus. Nunc cursus nulla nibh, at tempor ex mollis elementum. Suspendisse lorem metus, fermentum at velit quis, maximus ornare dui.",
+        "Improved machine learning algorithms by actively participating in brainstorming sessions with experts, leading to a 15% increase in overall performance.",
       content: (
         <div className="h-full w-full flex items-center justify-center text-white px-4">
-          Web Developer Intern
+          Artificial Inteligence
         </div>
       ),
     },
