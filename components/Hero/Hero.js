@@ -103,7 +103,7 @@ const Hero = () => {
         </div>
       </div>
       <div
-        className="absolute w-full h-auto max-w-sm md:max-w-lg lg:max-w-md bottom-1.5 lg:right-12 2xl:right-16 mt-6 md:mt-0"
+        className={`absolute w-full h-auto max-w-sm md:max-w-lg lg:max-w-md bottom-1.5 lg:right-12 2xl:right-16 ${styles.lottieMobileMargin}`}
         ref={lottieRef}
       />
     </section>

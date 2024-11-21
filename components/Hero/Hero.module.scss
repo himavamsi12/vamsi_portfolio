@@ -21,7 +21,11 @@
         }
     }
 }
-
+@media (max-width: 768px) {
+  .lottieMobileMargin {
+    margin-bottom: -200px; /* Adjust value as needed */
+  }
+}
 
 @keyframes fadeAppear {
   0% {
