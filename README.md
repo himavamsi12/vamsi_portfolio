@@ -1,7 +1,7 @@
 # devfolio
 
-<a href="https://shubhporwal.me">
-  <img alt="devfolio" src="./public/preview.png" />
+<a href="#">
+  <img alt="devfolio" src="#" />
 </a>
 
 <p>
